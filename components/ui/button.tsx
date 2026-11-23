@@ -44,7 +44,7 @@ function Button({
   render,
   ...props
 }: ButtonProps) {
-  // Если передан render — используем его (Base UI pattern)
+  
   if (render) {
     return (
       <ButtonPrimitive
