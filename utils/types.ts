@@ -1,6 +1,5 @@
-// ============================================================
+
 // BOOKSTORE (оставляем как было, чтобы не сломать старый проект)
-// ============================================================
 export type Profile = {
   id: string;
   email: string | null;
@@ -43,9 +42,9 @@ export type Transaction = {
 
 export type TransactionWithBook = Transaction & { books: Book };
 
-// ============================================================
+=
 // TRAVEL DIARY (новые типы)
-// ============================================================
+
 export type Trip = {
   id: string;
   user_id: string;
