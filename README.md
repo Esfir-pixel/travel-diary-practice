@@ -7,6 +7,7 @@
 - Next.js 16 (App Router, Server Actions, Server Components)
 - TypeScript
 - Supabase (PostgreSQL, Auth, Storage, RLS)
+- UI-библиотека  React 19
 - shadcn/ui (Base UI) + Tailwind CSS 4
 - Leaflet + OpenStreetMap (интерактивная карта)
 - lucide-react (иконки)
